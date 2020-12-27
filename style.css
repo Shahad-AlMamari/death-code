@@ -6,7 +6,5 @@ body{
 }
 header{
     font-size: 200px;
-}
-p{
-    font-size: 100px;
+    padding-top: 90px;
 }
